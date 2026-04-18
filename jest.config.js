@@ -1,3 +1,5 @@
 export default {
-  testEnvironment: "node"
+  testEnvironment: "node",
+  roots: ["<rootDir>/tests"],
+  verbose: false,
 };
